@@ -13,8 +13,6 @@ The Kin Rewards Engine has 4 primary steps:<br/>
 
 **Note that at this time, this step is beyond the scope of this repository.*
 
-[TODO INSERT PICTURE]
-
 The core components of the Kin Rewards Engine run as pipelines (DAGs) on Airflow. You can read more about Airflow [here](https://airflow.apache.org/docs/stable/).
 Airflow schedules bodies of work known as DAGs. These DAGs are directed acyclic graphs of tasks. The work for steps 3) and 4) of the Kin Reward Engine are done in [kre_2.py](https://github.com/kinecosystem/kin-rewards-engine/blob/master/airflow/dags/kre_2.py) and [payout_report.py](https://github.com/kinecosystem/kin-rewards-engine/blob/master/airflow/dags/payout_report.py) respectively. These DAGs are run with daily and weekly schedules respectively.
 While the code detailing 2) is absent, we have included the schemas of relevant BigQuery tables.
