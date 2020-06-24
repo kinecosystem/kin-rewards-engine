@@ -1,0 +1,12 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "digital_service_id", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "prior_payout", 
+    "type": "FLOAT"
+  }
+]

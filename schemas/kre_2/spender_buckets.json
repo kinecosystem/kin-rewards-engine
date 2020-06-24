@@ -1,0 +1,42 @@
+[
+  {
+    "name": "das", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "s1_9", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "s10_99", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "s100_999", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "s1000", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "max_payout_feb_onwards", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "max_payout_jan", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "digital_service_id", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "digital_service_name", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "date", 
+    "type": "DATE"
+  }
+]

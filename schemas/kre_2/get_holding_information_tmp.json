@@ -1,0 +1,17 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "digital_service_id", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "date", 
+    "type": "DATE"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "holdings", 
+    "type": "FLOAT"
+  }
+]

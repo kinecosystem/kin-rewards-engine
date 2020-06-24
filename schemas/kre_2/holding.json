@@ -1,0 +1,26 @@
+[
+  {
+    "name": "wallet", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "date", 
+    "type": "DATE"
+  }, 
+  {
+    "name": "min_balance", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "end_of_day_balance", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "digital_service_name", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "digital_service_id", 
+    "type": "STRING"
+  }
+]

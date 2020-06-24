@@ -1,0 +1,30 @@
+[
+  {
+    "name": "digital_service_id", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "digital_service_name", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "spend_payout", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "hold_payout", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "buy_payout", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "total_payout", 
+    "type": "FLOAT"
+  }, 
+  {
+    "name": "date", 
+    "type": "DATE"
+  }
+]
