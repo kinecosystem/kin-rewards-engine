@@ -1,0 +1,30 @@
+[
+  {
+    "name": "digital_service_id",
+    "type": "STRING"
+  },
+  {
+    "name": "digital_service_name",
+    "type": "STRING"
+  },
+  {
+    "name": "earn_minus_spends",
+    "type": "FLOAT"
+  },
+  {
+    "name": "total_buy_demand_payouts",
+    "type": "FLOAT"
+  },
+  {
+    "name": "min_balance",
+    "type": "FLOAT"
+  },
+  {
+    "name": "buy_demand",
+    "type": "FLOAT"
+  },
+  {
+    "name": "date",
+    "type": "DATE"
+  }
+]
