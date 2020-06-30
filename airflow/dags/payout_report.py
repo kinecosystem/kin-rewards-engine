@@ -38,7 +38,7 @@ default_args = {
     'wait_for_downstream': True,
     'max_active_runs': 1,
     'start_date': last_week_day,
-    'email': ['data-guild-alerts@kin.org'],
+    'email': ['***'],
     'email_on_failure': True,
     'email_on_retry': True,
     'retries': 2,
